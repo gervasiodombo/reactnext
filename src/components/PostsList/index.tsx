@@ -1,4 +1,3 @@
-import { PostModel } from "@/models/post/post-model";
 import { postRepository } from "@/repositories";
 
 export default async function PostsList() {
